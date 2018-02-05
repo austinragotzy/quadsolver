@@ -1,1 +1,9 @@
-her we will have some info about ieee and possible some code testing some of the concepts
+single percision gives from 6 to 9 significant decimal digits precision
+
+c uses ieee single percision normally with floats normally
+
+so when we use these thing in our spike:
+5.434322*63.000000=342.362274
+but google calc says:
+342.362286
+why???

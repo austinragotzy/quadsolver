@@ -1,1 +1,16 @@
 here i brought some stuff i found on the internet about the max and min of int, float, and double.
+
+float:
+The maximum value of float = 3.4028234664e+38
+The minimum value of float = 1.1754943508e-38
+
+floats do not overflow and start over when they get to a limit like integers do
+
+int:
+INT_MIN    = -2147483648
+INT_MAX    = +2147483647
+UINT_MAX   = 4294967295
+
+and when they go past the limit for signed they flip signs and keep going and for unsigned they go back to zero and keep going
+
+
