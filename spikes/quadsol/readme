@@ -1,1 +1,3 @@
-this will contain tests on code for the quadratic equasion solver
+to compile this just type make then to run it type make run
+
+seems pretty straight forward just solving it we just check how many roots it will have do the math and report... the hard part will probably be in the other modules making sure we are not rounding weired and stuff like that
