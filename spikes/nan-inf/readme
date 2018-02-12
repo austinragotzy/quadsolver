@@ -1,0 +1,5 @@
+to compile type make to run type make run 
+
+the nan in this program is a -nan it looks like but it works the same either way
+
+the functions isnan and isinf work as one might expect returns a non 0 if it is true 0 if it isn't. and when you do math on it with an actual number the result doesnt change from being a nan or inf. if anything is put in an equasion with a nan then the result is a nan.
