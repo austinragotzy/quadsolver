@@ -1,0 +1,6 @@
+to compile just type make to run make run
+
+so it looks like you can check to see if you have a normalized number.
+the result of a normalized plus a denormalized is whatever would result from the opperation, im guessing with less accuracy
+the result of a normalized multiplied by a denormalized is whatever the result would be normally, also im guessing with less accuracy
+you cant tell if something had a normalized or denormalized number from the result of the function only the opperands 
