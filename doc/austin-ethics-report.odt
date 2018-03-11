@@ -1,24 +1,11 @@
 ﻿Intro	
-	-intro setatement
-	-talk about what is in the paper
-	-talk about first section -what is ethics
-	-talk about second section -ethical standards
-	-talk about third section -laws
-	-talk about fourth section -company
-	-talk about 1st case study
-	-talk about 2nd case study
-	-lead out statement
+
+	Advancements in computer technology have made ethics even more complex. Before ethics in IT is discussed it is important to have a common understanding of what ethics are. Some IT groups have adopted ethical standards that the members must abide by. laws that help to define what is ethical are explained. Companies have ways to ensure that their employees are behaving in an ethical fashion. A case study about how a company created a training program for perspective employees to partake in to make sure they are going to be qualified when they start working for the client. Another case study about –----what ever your case study is about----.  The progress computer technology has made makes it very important to know what ethics are.
 
 what is ethics
-	x-lead in 
-	x-quote from somewhere
-	x-explain the quote
-	x-another quote from somewhere
-	x-explain that quote
-	-lead out statement
 
 	To really delve deep into ethics it is important to have a mutual understanding of what it is. Diffen.com explains ethics as, “The rules of conduct recognized in respect to a particular class of human actions or a particular group or culture.” In other words ethics are rules that people of a specific group agree to abide by and count on others to follow, creating a set of norms. This makes interaction between members predictable and  comfortable. Ethics are what make a society and set up a basic framework for communicating, priorities, and both spoken and unspoken laws. Ethics can be applied to many disciplines where ethical problems are encountered.
-	One discipline in particular that ethics must be applied to is computers. Computer ethics is defined by the Stanford Encyclopedia of philosophy in this way, “Computer ethics also has been used to refer to a kind of professional ethics in which computer professionals apply codes of ethics and standards of good practice within their profession.” Computer ethics are rules that should be followed when the use of computers might alter or create ethical problems. Such problems could be privacy, intellectual property, and security concerns.
+	One discipline in particular that ethics must be applied to is computers. Computer ethics is defined by the Stanford Encyclopedia of philosophy in this way, “Computer ethics also has been used to refer to a kind of professional ethics in which computer professionals apply codes of ethics and standards of good practice within their profession.” Computer ethics are rules that should be followed when the use of computers might alter or create ethical problems. Such problems could be privacy, intellectual property, and security concerns. Now that there is a mutual apprehension of ethics ethical standards in IT should be explained.
 
 -here is where ethical standards will go
 
@@ -34,26 +21,11 @@ what is ethics
 	Ethics is a vague subject, in order to make it specific, government enacts some laws to support the ethical standards. One of them is Health Insurance Portability and Accountability Act (HIPAA) of 1996 from Public Law 104-191, 104th Congress. The law stats, "To amend the Internal Revenue Code of 1986 to improve portability and continuity of health insurance coverage in the group and individual markets, to combat waste, fraud, and abuse in health insurance and health care delivery, to promote the use of medical savings accounts, to improve access to long-term care services and coverage, to simplify the administration of health insurance, and for other purposes." The HIPAA Privacy Rule regulates the use and disclosure of protected health information (PHI) which is any information held by a covered entity that concerns health status, provision of health care, or payment for health care that can be linked to an individual. This law build a national standard to protect specific health information and electronic health information.
 	Another important law is Family Educational Rights and Privacy Act (FERPA), different with HIPAA, this law is use to protect educational information. According to the U.S. Code - title 20 - § 1232g, FERPA is a United States federal law that governs the access of educational information and records to public entities such as potential employers, publically funded educational institutions, and foreign governments. The Code stats,"Conditions for availability of funds to educational agencies or institutions; inspection and review of education records; specific information to be made available; procedure for access to education records; reasonableness of time for such access; hearings; written explanations by parents." 
 	
-        
 company ethics
-	-lead in
-	-talk about NDA
-	-quote on NDA
-	-explain quote
-	-talk about something else in company ethics if possible
-	-quote on that
-	-explain quote
-	-company code of conduct
-	-lead out
 
-	With laws vaguely governing the ethics of computers it is important for companies to make sure they set in stone exactly what rules their employees will conform to. One way a company can do this is by creating nondisclosure agreements (NDA) with their employees. FindLaw stats, “generally speaking, nondisclosure agreements are contracts in which a party (normally an employee) promises to protect the confidentiality for a secret that is disclosed to him or her during the course of their employment, or during another business transaction.” Put simply an NDA is a binding agreement usually between an employee and employer that restricts the employee from disclosing specific information outlined in the agreement. According to Investopedia the reason many companies use NDA’s, “In order to protect the person or people with whom this information is shared, non-disclosure agreements have long been a legal framework to maintain trust and prevent that information from leaking out where it could undermine the profitability inherent to that content.” In other words NDA’s are used to make sure that people who the company decides to disclose important information to cannot share that information with anyone else which could result in loss of profit for something related to that information. Breaking an NDA is more than just unethical it could also cost you your job, a large financial penalty, or what ever else the contract has written into it as a penalty for breaking the agreement. The reason breaking an NDA is unethical because the company is trusting you to keep a secret that they are entrusting you with, the secret is not your information to share.
+	With laws loosely governing the ethics of computers it is important for companies to make sure they set in stone exactly what rules their employees will conform to. One way a company can do this is by creating nondisclosure agreements (NDA) with their employees. FindLaw stats, “generally speaking, nondisclosure agreements are contracts in which a party (normally an employee) promises to protect the confidentiality for a secret that is disclosed to him or her during the course of their employment, or during another business transaction.” Put simply an NDA is a binding agreement usually between an employee and employer that restricts the employee from disclosing specific information outlined in the agreement. According to Investopedia the reason many companies use NDA’s, “In order to protect the person or people with whom this information is shared, non-disclosure agreements have long been a legal framework to maintain trust and prevent that information from leaking out where it could undermine the profitability inherent to that content.” In other words NDA’s are used to make sure that people who the company decides to disclose important information to cannot share that information with anyone else which could result in loss of profit for something related to that information. Breaking an NDA is more than just unethical it could also cost you your job, a large financial penalty, or what ever else the contract has written into it as a penalty for breaking the agreement. The reason breaking an NDA is unethical because the company is trusting you to keep a secret that they are entrusting you with, the secret is not your information to share. It is now more important than ever for companies to nail down the the ethical behavior of their employees. 
 
-conclusion
-	-somewhat of a mirror of intro
-
-
-
-austins case study
+Austin’s Case Study
 
 	Many companies struggle finding low cost, qualified entry level employees in the IT sector of the current job market. This is an issue that TEKsystems has has explored in their case study, Developing AngularJA talent through a next-generation candidate training program. The case study introduced some difficulties and solutions for both TEKsystems and their client explained in their analysis. Along with the authors analysis an objective third parties analysis will be supplied as well. The case study was lain out in such a way that finding low cost, qualified entry level employees would be much more reliable. 
 	This case study has a detailed explanation of how it was conducted. The first thing they did was to listen to the clients need, which was a program that would allow them to easily hire entry level employees that would be job ready on the first day of work with specific skills and a knowledge of the company’s culture and work environment. This was done by first creating a curriculum that would teach a group of perspective employees the necessary skills and also teach them how to flourish in the company’s culture and work environment. The next step was recruitment, with TEKsystems vast network of IT professionals they were able to select many qualified candidates. They also found it very beneficial to assess the curriculum. The curriculum was assessed by senior developers to ensure that it would identify strengths and weaknesses, show how effective the training was and reveal the applicants ability to apply the acquired as developers. The classes would help the perspective employees AngularJS and the agile development method with in class projects and other exercises. Through the program a delivery manager would communicate with the candidates and instructor to provide feed back and insight on the clients work environment. The last thing that is noted is that a senior developer from the client would be assigned after to each of the selected candidates to support and guide them in their new environment. A dynamic program that got candidates ready to contribute to the team on the first day of work was created and studied.
