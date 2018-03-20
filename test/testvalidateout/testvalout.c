@@ -5,8 +5,8 @@
 
 int main() {
   int root;
-  double x1=0;
-  double x2=0;
+  double x1;
+  double x2;
   int result;
   cunit_init();
 
