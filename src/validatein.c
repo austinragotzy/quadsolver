@@ -6,6 +6,9 @@
 //if its denormalized it returns 1 so just not that and report to user probably
 //otherwise everything is fine and return 0;
 int validatein(double *a, double *b, double *c){
+  if(0==*a){
+    return 2;
+  }
   if(isnan(*a)||isnan(*b)||isnan(*c)){
     return 2;
   }
@@ -19,9 +22,11 @@ int validatein(double *a, double *b, double *c){
 }
 //for testing
 // int main(int argc, char const *argv[]) {
-//   double a = 0.0000045;
-//   double b = INFINITY;
-//   double c = 39238.4;
+//   double a = 0.0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001;
+//   double b = 5.4;
+//   double c = 4.3;
+//   printf("%f\n", a);
+//   printf("%d %d %d\n", isnormal(a), isnormal(b), isnormal(c));
 //   printf("%d\n", validatein(&a, &b, &c));
 //
 //   return 0;

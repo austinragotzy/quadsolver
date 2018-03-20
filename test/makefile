@@ -1,6 +1,7 @@
-all: testvalin.c validatein.o cunit.o
-	gcc -Wall -Wpedantic -std=c11 testvalin.c -lm -g -o tests
-test:
-	tests
-validatein.o: validatein.h
-cunit.o: cunit.h
+CFLAGS= -Wall -pedantic -std=c11
+CC= gcc
+
+comtest: cunit.c ../src/validatein.c
+	gcc -Wall testvalin.c cunit.c ../src/validatein.c -o testvalin -lm
+runtest:
+	./testvalin
