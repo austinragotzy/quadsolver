@@ -1,0 +1,8 @@
+programing standart is:
+	gcc -Wall -Wpedantic -std=c11 "file name.c" -g -o "compiled file name"
+
+spike and module of code needs a makefile with one word commands that are discriptive of what they do
+
+each folder that has something in it needs a readme to describe whats going on and if its a spike explain your findings
+
+all code should commented and spikes should be even more commented
