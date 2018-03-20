@@ -1,5 +1,5 @@
 #include <stdlib.h>
-#include "cunit.h"
+#include "../cunit.h"
 #include "validatein.h"
 #include <math.h>
 

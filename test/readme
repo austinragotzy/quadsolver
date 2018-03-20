@@ -1,1 +1,3 @@
 This folder contains test for the program
+
+to use makefile make comtest compiles and runtest will run all tests

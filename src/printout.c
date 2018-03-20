@@ -16,11 +16,11 @@ int printout(double r1, double r2, int roots, int accuracy){
   return 0;
 }
 
-int main(){
-  double r1 = 4.0;
-  double r2 = 5.0;
-  int roots = 2;
-  int accuracy = 1;
-  printout(r1, r2, roots, accuracy);
-  return 0;
-}
+// int main(){
+//   double r1 = 4.0;
+//   double r2 = 5.0;
+//   int roots = 2;
+//   int accuracy = 1;
+//   printout(r1, r2, roots, accuracy);
+//   return 0;
+// }
