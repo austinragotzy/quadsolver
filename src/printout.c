@@ -2,6 +2,9 @@
 #include <stdio.h>
 
 int printout(double r1, double r2, int roots, int accuracy){
+  if(accuracy>1){
+    printf("there was a problem with either the numbers used or the result (i.e. possibly a nan or inf)\n");
+  }
   if(roots==1){
     if(accuracy==1) printf("answer may not be fully accurate ");
     printf("there is only one root it is: %f\n", r1);
@@ -11,7 +14,7 @@ int printout(double r1, double r2, int roots, int accuracy){
     printf("there are two roots they are: %f, %f\n", r1, r2);
   }
   else if(roots==0){
-    printf("there are no real roots.");
+    printf("there are no real roots.\n");
   }
   return 0;
 }

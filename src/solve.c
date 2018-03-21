@@ -5,7 +5,7 @@
 //give it a 3 doubles a, b, and c and it will change the pointers to the double pointers
 //you give it. it returns 1 if one root and 2 if 2 roots and 0 if no real roots.
 int quadSolv(double a, double b, double c, double *x1, double *x2){
-  
+
   double worker;
   worker = (b*b)-(4*a*c);
   if(worker==0){//1 root
