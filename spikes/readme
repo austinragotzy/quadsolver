@@ -1,1 +1,21 @@
-this directory contains directories with different spikes for the project
+this directory contains directories with different spikes for the project 
+
+data type limits -explores the limits and quirks of ints floats and doubles.
+
+de-normalized -
+
+ieee -
+
+inaccuracy -
+
+input -
+
+nan-inf -
+
+output -
+
+quadsol -
+
+rounderror -
+
+

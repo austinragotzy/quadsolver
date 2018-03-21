@@ -13,9 +13,10 @@ int inresult;
 int outresult;
 int accuracy;
 
-readin(double a, double b, double c);
-inresult = validatein(double a, double b, double c);
-root = quadSolv(double a, double b, double c, double *x1, double *x2);
-printout(double *x1, double *x2, int roots, int accuracy)
-outresult = validateout(int root, double *x1, double *x2);
+readin(a, b, c);
+inresult = validatein(&a, &b, &c);
+root = quadSolv(a, b, c, &x1, &x2);
+outresult = validateout(root, *x1, *x2);
+printout(*x1, *x2, roots, inresult);
+
 
