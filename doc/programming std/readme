@@ -7,6 +7,6 @@ each folder that has something in it needs a readme to describe whats going on a
 
 all code should commented and spikes should be even more commented
 
-unit testing std
+unit testing std- using cunit unit tests should have no out put when they pass if they fail they should report which line they fail on
 
-automation std
+automation std- we will use makefiles make files targets will be short and discriptive and compile and run code and clean directory and have other functionality if needed
