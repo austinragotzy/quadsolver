@@ -11,7 +11,7 @@ run: all
 	./main
 
 deploy: main.o printout.o readin.o solve.o validatein.o validateout.o
-	mv *.o ../distr
+	tar -cvf ../distr/quadsolver1.0.tar .
 
 exe: main.o printout.o readin.o solve.o validatein.o validateout.o
 	${CC} -o ../bin/quadSolver $^ ${CFLAGS}
