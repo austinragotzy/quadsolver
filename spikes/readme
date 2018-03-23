@@ -2,20 +2,18 @@ this directory contains directories with different spikes for the project
 
 data type limits -explores the limits and quirks of ints floats and doubles.
 
-de-normalized -
+de-normalized -check to see if you have a normalized number.
 
-ieee -
+ieee -check to see the ieee standard.
 
-inaccuracy -
+input -some tests for which way we will be getting input from the user.
 
-input -
+nan-inf -some test for function isnan and isinf
 
-nan-inf -
+output -this will have some tests for what output we want to use to out put
 
-output -
+quadsol -the solver
 
-quadsol -
-
-rounderror -
+rounderror -check the float round error
 
 
